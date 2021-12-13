@@ -7,11 +7,8 @@ Generate an html file with node.js
 * Javascript
 * Node.js
 
-## Website Link to Deployed Application
-https://bdoneq7.github.io/portfolio-generator/
-
-## Website Screenshot
-![Alt Portfolio Generator Screenshot](https://github.com/bdoneq7/portfolio-generator/blob/main/assets/images/screenshot.PNG?raw=true "Portfolio Generator Screenshot")
+## How to Use this Application
+This is a Node.js application that runs from a machine and not a browser. If you would like to view the application, please clone it to your local machine and run it from there.
 
 ## Contribution
-Made with by [Brian Done]
+Made by [Brian Done]
